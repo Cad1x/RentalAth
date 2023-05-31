@@ -1,0 +1,28 @@
+﻿@page
+@model ATHRentalSystem.Views.TestModel
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h1>List of bikes</h1>
+
+<table border="1" cellpadding="10">
+    <tr>
+        <th>bike ID</th>
+        <th>bike Name</th>
+    </tr>
+    @if (Model.Vehicle != null)
+    {
+        @foreach (var item in Model.Vehicle)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+            </tr>
+        }
+    }
+</table>
+<br /><br />
+<form method="post">
+    <button type="submit" asp-page-handler="Update">
+	Update Customers
+    </button>
+</form>

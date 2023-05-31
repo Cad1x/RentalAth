@@ -1,0 +1,25 @@
+﻿@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">ATH Bike Rental System</h1>
+    <p>Aby skorzystać z naszych usług proszę się zalogować.</p>
+    <div class="rowery">Poniżej widać jeden z naszych rowerów, który jest do państwa dyspozycji na naszym kampusie ATH.</div>
+    <img src="https://energy-bike.pl/wp-content/uploads/2019/03/57F4EC13-8BFD-4D8E-ACDA-1521EC3ACD9A.jpeg" width="500" height="300">
+    <div class="rowery">W naszej ofercie posiadamy również rowery elektryczne, które będą świetną alternatywą dla osób preferujących szybszą jazdę.</div>
+    <img src="https://cdn.shopify.com/s/files/1/2382/8923/products/20210618_125942_720x.jpg?v=1645210724" width="500" height="300">
+</div>
+
+@if (User.IsInRole("Admin")){
+<script>
+    window.onload = function () {
+        window.location.href = 'https://localhost:7272/admin/Admins';
+    };
+</script>
+}
