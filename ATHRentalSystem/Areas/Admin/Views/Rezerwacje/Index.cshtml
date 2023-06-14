@@ -1,13 +1,10 @@
 ﻿@model IEnumerable<ATHRentalSystem.Models.RezerwacjeViewModel>
-
 @{
     ViewData["Title"] = "Index";
 }
-
-<h1>Index</h1>
-
+<h1>Wypożyczone rowery</h1>
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Dodaj wypożyczenie</a>
 </p>
 <table class="table">
     <thead>
@@ -24,7 +21,15 @@
             <th>
                 @Html.DisplayNameFor(model => model.RezerwacjaDo)
             </th>
-            <th></th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdRoweru)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdMiasta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.zatwierdz)
+            </th>       
         </tr>
     </thead>
     <tbody>
@@ -42,10 +47,20 @@
             <td>
                 @Html.DisplayFor(modelItem => item.RezerwacjaDo)
             </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdRoweru)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdMiasta)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.zatwierdz)
+                    <input type="checkbox" class="done">
+                </td>   
             <td>
-                <a asp-action="Edit" asp-route-id="@item.RezerwacjaId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.RezerwacjaId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.RezerwacjaId">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.RezerwacjaId">Zedytuj</a> |
+                <a asp-action="Details" asp-route-id="@item.RezerwacjaId">Detale</a> |
+                <a asp-action="Delete" asp-route-id="@item.RezerwacjaId">Zwróć</a>
             </td>
         </tr>
 }

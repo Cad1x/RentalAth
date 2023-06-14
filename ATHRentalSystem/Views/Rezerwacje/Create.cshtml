@@ -23,6 +23,17 @@
                 <span asp-validation-for="NazwiskoRezerwanta" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="IdRoweru" class="control-label"></label>
+                <input asp-for="IdRoweru" class="form-control" />
+                <span asp-validation-for="IdRoweru" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="IdMiasta" class="control-label"></label>
+                <input asp-for="IdMiasta" class="form-control" />
+                <span asp-validation-for="IdMiasta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
                 <label asp-for="RezerwacjaOd" class="control-label"></label>
                 <input asp-for="RezerwacjaOd" class="form-control" />
                 <span asp-validation-for="RezerwacjaOd" class="text-danger"></span>
@@ -32,8 +43,9 @@
                 <input asp-for="RezerwacjaDo" class="form-control" />
                 <span asp-validation-for="RezerwacjaDo" class="text-danger"></span>
             </div>
+
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Create" class="btn btn-primary" id="create" />
             </div>
         </form>
     </div>

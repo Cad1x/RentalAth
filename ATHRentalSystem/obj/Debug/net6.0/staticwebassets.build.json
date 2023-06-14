@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lTccuuGNX7Htqat9rZTfcDGLG9pI3EKGprvMbmTstGE=",
+  "Hash": "yWhMtH60rU/SYk1D7WmglwoZrgtBId6SiYBRCj7AzDU=",
   "Source": "ATHRentalSystem",
   "BasePath": "_content/ATHRentalSystem",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "ATHRentalSystem\\wwwroot",
       "Source": "ATHRentalSystem",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "Pattern": "**"
     }
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "C:\\Users\\Michał\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.15\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ATHRentalSystem.styles.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ATHRentalSystem.styles.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "ATHRentalSystem.styles.css",
       "AssetKind": "All",
@@ -1680,13 +1680,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\ATHRentalSystem\\ATHRentalSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ATHRentalSystem.styles.css"
+      "OriginalItemSpec": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ATHRentalSystem.styles.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ATHRentalSystem.bundle.scp.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ATHRentalSystem.bundle.scp.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "ATHRentalSystem.bundle.scp.css",
       "AssetKind": "All",
@@ -1697,13 +1697,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\ATHRentalSystem\\ATHRentalSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ATHRentalSystem.bundle.scp.css"
+      "OriginalItemSpec": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ATHRentalSystem.bundle.scp.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\css\\site.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\css\\site.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\favicon.ico",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\favicon.ico",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\js\\site.js",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\js\\site.js",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\vendor\\fontawesome-free\\package.json",
+      "Identity": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\vendor\\fontawesome-free\\package.json",
       "SourceId": "ATHRentalSystem",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\ATHRentalSystem\\ATHRentalSystem\\wwwroot\\",
+      "ContentRoot": "D:\\asp\\ATHRentalSystemNAJNOWSZE\\ATHRentalSystem\\wwwroot\\",
       "BasePath": "_content/ATHRentalSystem",
       "RelativePath": "vendor/fontawesome-free/package.json",
       "AssetKind": "All",

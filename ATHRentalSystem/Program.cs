@@ -107,9 +107,9 @@ static void AddRezerwacja(WebApplication app)
     var scope = app.Services.CreateScope();
     var db = scope.ServiceProvider.GetService<ApplicationDbContext>();
 
-    var Vehicle1 = new RezerwacjeViewModel { RezerwacjaId = 1, ImieRezerwanta="Marcin", NazwiskoRezerwanta="Prokon", RezerwacjaOd = new DateTime(2023, 4, 23), RezerwacjaDo = new DateTime(2023, 5, 23) };
-    var Vehicle2 = new RezerwacjeViewModel { RezerwacjaId = 2, ImieRezerwanta = "�ukasz", NazwiskoRezerwanta = "Maszwid�y", RezerwacjaOd = new DateTime(2023, 4, 30), RezerwacjaDo = new DateTime(2023, 6, 27) };
-    var Vehicle3 = new RezerwacjeViewModel { RezerwacjaId = 3, ImieRezerwanta = "Emanuel", NazwiskoRezerwanta = "P�yw", RezerwacjaOd = new DateTime(2023, 4, 29), RezerwacjaDo = new DateTime(2023, 5, 30) };
+    var Vehicle1 = new RezerwacjeViewModel { RezerwacjaId = 1, ImieRezerwanta="Marcin", NazwiskoRezerwanta="Prokon", RezerwacjaOd = new DateTime(2023, 4, 23), RezerwacjaDo = new DateTime(2023, 5, 23)};
+    var Vehicle2 = new RezerwacjeViewModel { RezerwacjaId = 2, ImieRezerwanta = "Lukasz", NazwiskoRezerwanta = "Maszwidoy", RezerwacjaOd = new DateTime(2023, 4, 30), RezerwacjaDo = new DateTime(2023, 6, 27)};
+    var Vehicle3 = new RezerwacjeViewModel { RezerwacjaId = 3, ImieRezerwanta = "Emanuel", NazwiskoRezerwanta = "Plyw", RezerwacjaOd = new DateTime(2023, 4, 29), RezerwacjaDo = new DateTime(2023, 5, 30) };
 
     db.rezerwacje.Add(Vehicle1);
     db.rezerwacje.Add(Vehicle2);
@@ -125,7 +125,7 @@ static void AddShopData(WebApplication app)
     var db = scope.ServiceProvider.GetService<ApplicationDbContext>();
 
     var Shop1 = new PunktWypozyczenViewModel { PunktId = 1, NazwaWypozyczalnia = "Palnik", Miasto = "Warszawa",Ulica="Weso�a", Numer = "11A"};
-    var Shop2 = new PunktWypozyczenViewModel { PunktId = 2, NazwaWypozyczalnia = "Turbisz", Miasto = "Bielsko-Bia�a", Ulica = "Krzywa", Numer = "123"};
+    var Shop2 = new PunktWypozyczenViewModel { PunktId = 2, NazwaWypozyczalnia = "Turbisz", Miasto = "Bielsko-Biala", Ulica = "Krzywa", Numer = "123"};
     var Shop3 = new PunktWypozyczenViewModel { PunktId = 3, NazwaWypozyczalnia = "D�on", Miasto = "Rybnik", Ulica = "Wysoka", Numer = "42"};
 
     db.PunktWypozyczenViewModel.Add(Shop1);
@@ -135,7 +135,9 @@ static void AddShopData(WebApplication app)
     db.SaveChanges();
 }
 
-using(var scope = app.Services.CreateScope())
+
+
+using (var scope = app.Services.CreateScope())
 {
     var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole>>();
 

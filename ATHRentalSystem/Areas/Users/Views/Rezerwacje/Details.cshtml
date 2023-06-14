@@ -1,0 +1,48 @@
+﻿@model ATHRentalSystem.Models.RezerwacjeViewModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>RezerwacjeViewModel</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ImieRezerwanta)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ImieRezerwanta)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NazwiskoRezerwanta)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NazwiskoRezerwanta)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.RezerwacjaOd)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.RezerwacjaOd)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.RezerwacjaDo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.RezerwacjaDo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.zatwierdz)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.zatwierdz)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.RezerwacjaId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

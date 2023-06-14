@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATHRentalSystem", "ATHRentalSystem\ATHRentalSystem.csproj", "{03D9B3E0-FA1E-49C8-9BFD-94D712972F0B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "TestProject1\Tests.csproj", "{F3CCEA74-6036-4D52-ADBD-96D94F4F0EFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{03D9B3E0-FA1E-49C8-9BFD-94D712972F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03D9B3E0-FA1E-49C8-9BFD-94D712972F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03D9B3E0-FA1E-49C8-9BFD-94D712972F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3CCEA74-6036-4D52-ADBD-96D94F4F0EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3CCEA74-6036-4D52-ADBD-96D94F4F0EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3CCEA74-6036-4D52-ADBD-96D94F4F0EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3CCEA74-6036-4D52-ADBD-96D94F4F0EFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -21,6 +21,10 @@ namespace ATHRentalSystem.Models
 
         public DateTime RezerwacjaDo { get; set; }
 
+        public int? IdRoweru { get; set; }
+        public int? IdMiasta { get; set; }
+        public bool zatwierdz { get; set; }
+
         public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
         {
             if (RezerwacjaOd > RezerwacjaDo) yield return new ValidationResult("Nie oddasz roweru przed jego wypożyczeniem");

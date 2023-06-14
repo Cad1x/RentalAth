@@ -24,30 +24,49 @@
             <th>
                 @Html.DisplayNameFor(model => model.RezerwacjaDo)
             </th>
-            <th></th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdRoweru)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdMiasta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.zatwierdz)
+            </th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.ImieRezerwanta)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.NazwiskoRezerwanta)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.RezerwacjaOd)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.RezerwacjaDo)
-            </td>
-            <td>
-@*                <a asp-action="Edit" asp-route-id="@item.RezerwacjaId">Edit</a> |
-*@@*                <a asp-action="Details" asp-route-id="@item.RezerwacjaId">Details</a> |*@
-@*<a asp-action="Delete" asp-route-id="@item.RezerwacjaId">Delete</a>*@
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ImieRezerwanta)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NazwiskoRezerwanta)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RezerwacjaOd)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RezerwacjaDo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdRoweru)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdMiasta)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.zatwierdz)
+                    <input type="checkbox" class="done">
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.RezerwacjaId">Zedytuj</a> |
+                    <a asp-action="Details" asp-route-id="@item.RezerwacjaId">Detale</a> |
+                    <a asp-action="Delete" asp-route-id="@item.RezerwacjaId">Zwróć</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
