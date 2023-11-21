@@ -1,0 +1,36 @@
+[
+  {
+    "TrasaId": 1,
+    "NazwaTrasy": "Dworzec autobusowy",
+    "Description": "Kultowy dworzec autobusowy w Bielsku-Białej",
+    "OpisTrasy": "https://www.google.com/maps/dir//Warszawska+Dworzec,+43-300+Bielsko-Bia%C5%82a/@49.7666537,19.0191486,11.5z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4716a1e71d707fb3:0x707177d299bf7b8e!2m2!1d19.0431384!2d49.8315279!3e0?hl=pl-PL&entry=ttu",
+    "TrasaX": 49.8300308,
+    "TrasaY": 19.0367929
+  },
+  {
+    "TrasaId": 2,
+    "NazwaTrasy": "Pływalnia Panorama",
+    "Description": "Kultowa pływalnia miejska w Bielsku-Białej",
+    "OpisTrasy": "https://www.google.com/maps/dir//P%C5%82ywalnia+Panorama,+Marii+Konopnickiej+5,+43-300+Bielsko-Bia%C5%82a/@49.8165451,19.0345386,15z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4716a1cfef405f15:0xb9251d5429e889a8!2m2!1d19.0299026!2d49.8187397!3e0?hl=pl-PL&entry=ttu",
+    "TrasaX": 49.8165451,
+    "TrasaY": 19.0345386
+  },
+  {
+    "TrasaId": 3,
+    "NazwaTrasy": "Galeria Sfera",
+    "Description": "Kultowa galeria handlowa w Bielsku-Białej",
+    "OpisTrasy": "https://www.google.com/maps/dir//Galeria+Sfera,+Mostowa+5,+43-300+Bielsko-Bia%C5%82a/@49.8230243,19.051576,15z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4716a1dfc1f47b1f:0x94edac8886e432a5!2m2!1d19.049585!2d49.8272788!3e0?hl=pl-PL&entry=ttu",
+    "TrasaX": 49.8230243,
+    "TrasaY": 19.051576
+  },
+  {
+    "TrasaId": 3,
+    "NazwaTrasy": "UBB",
+    "Description": "Kiedyś ATH teraz UBB :,)",
+    "OpisTrasy": "https://www.google.pl/maps/place/Uniwersytet+Bielsko-Bialski/@49.783618,19.0562112,17.5z/data=!4m10!1m2!2m1!1sath!3m6!1s0x47169fc0a7862b97:0xab58f9e2cef89ecf!8m2!3d49.7832302!4d19.0577378!15sCgNhdGhaBSIDYXRokgEKdW5pdmVyc2l0eZoBI0NoWkRTVWhOTUc5blMwVkpRMEZuU1VOSmQyOXVlbE4zRUFF4AEA!16zL20vMDUyNjFw?entry=ttu",
+    "TrasaX": 49.783618,
+    "TrasaY": 19.0562112
+  }
+]
+
+
